@@ -12,3 +12,4 @@ C:\Users\edmyl\source\repos\GeneticAlgorithm\obj\Debug\net8.0\refint\GeneticAlgo
 C:\Users\edmyl\source\repos\GeneticAlgorithm\obj\Debug\net8.0\GeneticAlgorithm.pdb
 C:\Users\edmyl\source\repos\GeneticAlgorithm\obj\Debug\net8.0\GeneticAlgorithm.genruntimeconfig.cache
 C:\Users\edmyl\source\repos\GeneticAlgorithm\obj\Debug\net8.0\ref\GeneticAlgorithm.dll
+C:\Users\edmyl\source\repos\GeneticAlgorithm\obj\Debug\net8.0\GeneticAlgorithm.sourcelink.json
